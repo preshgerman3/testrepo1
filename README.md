@@ -1,2 +1,2 @@
 # testrepo1
-vibe check
+vibecheck1
