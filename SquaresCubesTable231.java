@@ -1,4 +1,4 @@
-public class SquaresCubesTable {
+public class SquaresCubesTable231 {
     public static void main(String[] args) {
         System.out.print("number");
         System.out.print("     ");
