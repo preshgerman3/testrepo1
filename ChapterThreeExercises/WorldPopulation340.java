@@ -40,5 +40,7 @@ public class WorldPopulation340 {
 
 
         scanner.close();
+
+        // I could not do the table. But i would like to reattempt this exercise as soon as i can create tables
     }
 }
