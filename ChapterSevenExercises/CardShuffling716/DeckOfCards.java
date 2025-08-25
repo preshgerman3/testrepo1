@@ -113,7 +113,6 @@ public class DeckOfCards {
                 newCard = new Card(faces[randFace], suits[randSuit]);
                 cards.add(newCard);
             } else if ((cards.size() > 0) && (cards.size() < 5)) {
-                //boolean whileBoolean = true;
                 while (true) {
                     randFace = randomNumbers.nextInt(13);
                     randSuit = randomNumbers.nextInt(4);
